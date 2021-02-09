@@ -1,45 +1,28 @@
-<p align="center">
-  <a href="https://github.com/JonnyBurger/remotion-logo">
-    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
+VMotion is a suite of libraries building a fundament for **creating videos programmatically using Vue.**
 
-<a href="https://www.producthunt.com/posts/remotion-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-remotion-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=283561&theme=light" alt="Remotion - Create videos programmatically in React | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+> :warning: Work In Progress
 
-
-Remotion is a suite of libraries building a fundament for **creating videos programmatically using React.**
-
-## Why create videos in React?
+## Why create videos in Vue?
 
 - **Leverage web technologies**: Use all of CSS, Canvas, SVG, WebGL, etc.
 - **Leverage programming**: Use variables, functions, APIs, math and algorithms to create new effects
-- **Leverage React**: Reusable components, Powerful composition, Fast Refresh, Package ecosystem
-
-## Example videos
-
-- **Remotion Trailer** [Watch](https://www.youtube.com/watch?v=gwlDorikqgY) • [Source code](https://github.com/JonnyBurger/remotion-trailer) • The announcement video for Remotion was written in Remotion itself!
-- **AnySticker Welcome Video** [Watch](https://www.youtube.com/watch?v=Y0SNPeTz09w) • [Source code](https://github.com/JonnyBurger/anysticker-tutorials) • An in-app explainer video for my app AnySticker.
-- **"Game changer or no game changer" intro** [Watch](https://youtu.be/ga_xAZo9m7k?t=61) • [Source code](https://github.com/JonnyBurger/gamechanger-or-no-gamechanger-intro) • An intro for a quiz show I did with William Candillon.
-
-Feel free to pull request your creations!
+- **Leverage Vue**: Reusable components, Powerful composition, Fast Refresh, Package ecosystem
 
 ## Get started
 
 If you already have Yarn and FFMPEG installed, type
 
 ```console
-yarn create video
+yarn create motion
 ```
-
-to get started. Otherwise, read the [installation page](https://www.remotion.dev/docs/) in the documentation.
 
 ## Documentation
 
-Head to [**remotion.dev**](https://www.remotion.dev) to learn the in and outs of Remotion!
+WIP
 
 ## License
 
-Be aware of that Remotion has a special license and requires obtaining a company license in some cases. Read the [LICENSE](LICENSE.md) documentation for more information.
+Be aware of that VMotion has a special license and requires obtaining a company license in some cases. Read the [LICENSE](LICENSE.md) documentation for more information.
 
 ## Contributing
 
